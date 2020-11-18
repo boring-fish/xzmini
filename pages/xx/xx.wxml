@@ -1,0 +1,428 @@
+<view class="containerss" >
+<view class="containers" style="background:url('../img/24.jpg') no-repeat">
+  <view class="imgbox">
+     <image src="../img/1.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/2.jpg"class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/3.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/4.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/5.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/5.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/6.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+   <view class="imgbox">
+     <image src="../img/7.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/8.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/9.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/10.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/11.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/12.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+ </view>
+<view class="containers">
+  <view class="imgbox">
+     <image src="../img/13.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/14.jpg"  class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/15.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/16.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/17.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/18.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/19.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+   <view class="imgbox">
+     <image src="../img/20.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/21.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/22.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/22.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/23.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/24.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+</view>
+<view class="containers">
+  <view class="imgbox">
+     <image src="../img/25.jpg"  class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/26.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/27.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/28.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/29.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/30.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/31.jpg"  class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+   <view class="imgbox">
+     <image src="../img/31.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/32.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/23.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/40.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/34.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/6.jpg"  class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+</view>
+<view class="containers">
+  <view class="imgbox">
+     <image src="../img/5.jpg" ></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/5.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/23.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/33.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/34.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/35.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/36.jpg"></image>
+  </view>
+   <view class="imgbox">
+     <image src="../img/37.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/38.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/39.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/40.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/4.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/1.jpg"></image>
+  </view>
+</view>
+<view class="containers">
+  <view class="imgbox">
+     <image src="../img/1.jpg"  class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/3.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/3.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/5.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/5.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/8.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/37.jpg"></image>
+  </view>
+   <view class="imgbox">
+     <image src="../img/36.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/39.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/38.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/33.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/22.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/21.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+</view>
+<view class="containers">
+  <view class="imgbox">
+     <image src="../img/11.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/15.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/16.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/17.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/18.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/19.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/20.jpg"></image>
+  </view>
+   <view class="imgbox">
+     <image src="../img/21.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/22.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/24.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/3.jpg"></image>
+  </view>4
+  <view class="imgbox">
+     <image src="../img/4.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/4.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+</view>
+<view class="containers">
+  <view class="imgbox">
+     <image src="../img/33.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/32.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/27.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/21.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/15.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/19.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/10.jpg"></image>
+  </view>
+   <view class="imgbox">
+     <image src="../img/20.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/20.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/30.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/20.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/10.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/36.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+</view>
+<view class="containers">
+  <view class="imgbox">
+     <image src="../img/22.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/23.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/23.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/25.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/26.jpg" ></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/26.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/26.jpg"></image>
+  </view>
+   <view class="imgbox">
+     <image src="../img/28.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/30.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/18.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/29.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/29.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/31.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+</view>
+<view class="containers">
+  <view class="imgbox">
+     <image src="../img/15.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/18.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/18.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/19.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/10.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/17.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/17.jpg"></image>
+  </view>
+   <view class="imgbox">
+     <image src="../img/19.jpg"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/18.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/20.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/29.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/20.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/25.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+</view>
+<view class="containers">
+  <view class="imgbox">
+     <image src="../img/25.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/28.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/18.jpg" class="imgnone"style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/6.jpg" class="imgnone" style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/19.jpg" class="imgnone" style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/20.jpg" class="imgnone" style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/30.jpg"></image>
+  </view>
+   <view class="imgbox">
+     <image src="../img/26.jpg" class="imgnone" style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/4.jpg" class="imgnone" style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/3.jpg" class="imgnone" style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/3.jpg" class="imgnone" style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/1.jpg" class="imgnone" style="display:{{displaynone}}"></image>
+  </view>
+  <view class="imgbox">
+     <image src="../img/38.jpg" class="imgnone" style="display:{{displaynone}}" bindtap="changebig"></image>
+  </view>
+</view>
+<view class="clicktab">
+    <text bindtap="xx" >点击</text>
+</view>
+<button open-type="contact" bindcontact="handleContact">进入客服会话</button>
+<button open-type="share" bindcontact="handleShare">分享</button>
+<button open-type="getPhoneNumber" bindcontact="handlephone">获取当前手机号</button>
+<button open-type="getUserInfo" >获取用户信息</button>
+<button open-type="launchApp" binderror="errors" app-parameter="true">launchApp</button>
+<button open-type="openSetting">打开授权</button>
+<button open-type="feedback">打开意见反馈</button>
+<button bindtap='copy'>复制</button>
+<view class="pages" style="display:{{displaynones}}" bindtap="changebig">
+    <view class="imgbig">
+        <image src="{{imgsrc}}" class="imgbigs"></image>
+    </view>
+ </view>
+ </view>

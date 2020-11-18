@@ -1,0 +1,53 @@
+<view class="box">
+	<view class="content">
+		<scroll-view class="leftContent" scroll-y>
+			<view
+			 wx:for="{{leftlist}}"
+			 class="leftContentitem {{index===currentindex? 'active':''}}"
+			 wx:key="id"
+			 bindtap="selectChecked"
+			 data-id="{{item.id}}"
+			>{{item.name}}
+			</view>
+		</scroll-view>
+		<scroll-view class="rightContent" scroll-y>
+			<view
+			 class="rightContentItem"
+			 wx:for="{{rightlist}}"
+			 wx:for-item="item1"
+			 wx:for-index="index1"
+			 wx:key="*this"
+			>
+				<view class="title">
+					{{item1.name}}
+				</view>
+				<view class="itemcontent">
+					<view
+					 wx:for="{{item1.child}}"
+					 wx:for-item="item2"
+					 wx:for-index="index2"
+					 wx:key="*this"
+					 class="itemcontentitem"
+					>
+						<image
+						 class="itemimage"
+						 src="{{'../img/'+item2.id+'.jpg'}}"
+						 mode="aspectFit|aspectFill|widthFix"
+						 lazy-load="false"
+						 binderror=""
+						 bindload=""
+						/>
+						<view>
+							{{item2.name}}
+						</view>
+
+					</view>
+
+				</view>
+
+			</view>
+
+		</scroll-view>
+	</view>
+</view>
+

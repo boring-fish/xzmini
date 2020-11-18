@@ -1,0 +1,15 @@
+/* components/tabs/tabs.wxss */
+.content{
+  width:750rpx;
+  height:100rpx;
+  display:flex;
+  justify-content: space-around;
+  line-height: 100rpx;
+}
+.title{
+  font-size: 20rpx;
+}
+.active{
+  border-bottom: 2px solid #0054ff;
+  color:#0054ff
+}

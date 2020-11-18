@@ -1,0 +1,46 @@
+/* pages/xz /xz.wxss */
+.containers{
+  background:-webkit-gradient(linear, 0% 20%, 50% 100%,from(#FFC0CB), to(	#FFE4C4));
+  height:600px;
+}
+.xztitle{
+  /* background: orangered; */
+  font-family: "楷体";
+  color:red;
+  font-size: 35px;
+  text-align: center;
+  line-height:50px;
+  font-weight:600;
+  /* -webkit-box-reflect: below 10px linear-gradient(rgba(166, 235, 134, 0) 0%,rgba(255,255,255,1) 100%); */
+  transform-style: preserve-3d;
+}
+.box{
+  width:250px;
+  height:100px;
+  text-align: center;
+  /* line-height: 100px; */
+  color:white;
+  font-size:18px;
+   font-family: "楷体";
+}
+.xztitles{
+  animation:xz 7S  infinite;
+  
+}
+ @keyframes xz{
+  0%{
+  background:-webkit-gradient(linear, 0% 20%, 50% 100%,from(#FFC0CB), to(	#dFE4C4));
+  /* background: orangered; */
+  transform:  translateY(-50px);
+  }
+   50%{
+  background:-webkit-gradient(linear, 0% 20%, 50% 100%,from(#dc96f1), to(	#FFE4C4));
+   transform:  translateY(100px) rotatex(90deg)；
+  } 
+  100%{
+  background:-webkit-gradient(linear, 0% 20%, 50% 100%,from(rgb(139, 190, 233)), to(	#bfE4C4));
+  /* background: rgb(208, 255, 0) ; */
+  transform:  translateY(450px);
+  }
+}
+  

@@ -1,0 +1,13 @@
+.swipers {
+  width: 750rpx;
+  height: 400rpx;
+  background: black;
+}
+.swipers swiper {
+  width: 620rpx;
+  height: 400rpx;
+}
+.swipers swiper image {
+  width: 100%;
+  height: 100%;
+}

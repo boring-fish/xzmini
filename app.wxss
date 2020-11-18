@@ -1,0 +1,6 @@
+/**app.wxss**/
+view,text,swiper,image{
+  margin: 0;
+  padding:0;
+  
+}

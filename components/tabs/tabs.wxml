@@ -1,0 +1,9 @@
+<!--components/tabs/tabs.wxml-->
+<view>
+  <view class="content">
+  <view class="title {{item.isActive ?'active':''}}" wx:for="{{tabslist}}" wx:key="id" bindtap="handleActive" data-num="{{index}}">{{item.name}}</view>
+</view>
+<view>
+<slot></slot>
+</view>
+</view>

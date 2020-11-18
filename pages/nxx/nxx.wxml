@@ -1,0 +1,43 @@
+<view class="containerss" style="background:url('../img/24.jpg') " bindtap="imgselect">
+<view class="containers"wx:for="{{bigcontainer}}">
+  <view class="imgbox" wx:for="{{arr}}" wx:key="{{index}}">
+     <image src="{{arr[index].imgnum}}" class="imgnone" bindlongtap="changeselect"></image>
+     <!-- <image src="../img/42.jpg" class="imgnone" bindlongtap="changeselect"></image> -->
+
+  </view>
+</view>
+<view class="clicktab">
+    <text bindtap="xx">点击</text>
+</view>
+ <view class="box" style="display:{{displaynone}}" bindtap="xx">
+  <view class="boxs">
+      <view class="box1">
+      <view class="leftbox">
+           <image src="{{imgstra}}" class="imgs" ></image>
+      </view>
+      <view class="rightbox">
+           <image src="{{imgstrb}}" class="imgs" ></image>
+      </view>
+  </view>
+   <view class="box2">
+      <view class="leftbottombox">
+           <image src="{{imgstrc}}" class="imgs" ></image>
+      </view>
+      <view class="rightbottombox">
+           <image src="{{imgstrd}}" class="imgs" ></image>
+      </view>
+  </view>
+     <view class="imgb">
+        <image src="{{imgstr}}" class="imgbig" ></image>
+      </view>
+  </view>
+  
+ </view>
+ 
+
+ </view>
+ <view class="pages" style="display:{{displaynones}}" bindtap="close">
+    <view class="imgbigs">
+        <text>{{word}}</text>
+    </view>
+ </view>

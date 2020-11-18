@@ -1,0 +1,31 @@
+<view class="swipers">
+
+	<swiper
+	 indicator-dots="true"
+	 indicator-color='#0054ff'
+	 autoplay="true"
+	 interval="3000"
+	 circular="true"
+	>
+		<swiper-item>
+			<image mode="scaleToFill" src="../img/1.jpg"></image>
+		</swiper-item>
+		<swiper-item>
+			<image mode="scaleToFill" src="../img/21.jpg"></image>
+		</swiper-item>
+		<swiper-item>
+			<image mode="scaleToFill" src="../img/14.jpg"></image>
+		</swiper-item>
+		<swiper-item>
+			<image mode="scaleToFill" src="../img/31.jpg"></image>
+		</swiper-item>
+	</swiper>
+</view>
+
+<tabs tabslist="{{list}}" bind:item="itemhandle">
+	<view wx:if="{{dataindex==0}}">{{dataindex}}</view>
+	<view wx:elif="{{dataindex==1}}">{{dataindex}}</view>
+	<view wx:elif="{{dataindex==2}}">{{dataindex}}</view>
+	<view wx:else="{{dataindex==3}}">{{dataindex}}</view>
+</tabs>
+

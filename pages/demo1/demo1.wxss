@@ -1,0 +1,40 @@
+/* pages/demo1/demo1.wxss */
+.content {
+  display: flex;
+  height: calc(667rpx*2);
+}
+.content .leftContent {
+  flex: 2;
+  height: 100%;
+}
+.content .leftContent .leftContentitem {
+  height: 100rpx;
+  line-height: 100rpx;
+  text-align: center;
+}
+.content .leftContent .active {
+  color: aqua;
+}
+.content .rightContent {
+  flex: 5;
+  height: 100%;
+}
+.content .rightContent .rightContentItem .title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40rpx;
+}
+.content .rightContent .rightContentItem .itemcontent {
+  display: flex;
+  justify-content: space-between;
+  padding: 30rpx;
+  flex-wrap: wrap;
+}
+.content .rightContent .rightContentItem .itemcontent .itemcontentitem {
+  text-align: center;
+}
+.content .rightContent .rightContentItem .itemcontent .itemcontentitem .itemimage {
+  width: 100rpx;
+  height: 100rpx;
+}
